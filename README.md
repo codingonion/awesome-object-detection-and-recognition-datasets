@@ -393,3 +393,8 @@
   - 微信公众号「自动驾驶之心」
     - [2023-03-27, 目标跟踪方向开源数据集资源汇总](https://mp.weixin.qq.com/s/dCwtc-DI0KaPB4meJqewwA)
     - [2023-04-12, 包罗万象！V3Det：1.3W类全新目标检测数据集（港中文&上海AI Lab）](https://mp.weixin.qq.com/s/A-4ze7B3yQ-AYCe0DgHv-A)
+  - 微信公众号「整数智能AI研究院」
+    - [2022-03-10, 最全自动驾驶数据集分享系列一｜目标检测数据集（1/3）](https://mp.weixin.qq.com/s/eoMa1eUXPaZBlHeZReR77A)
+    - [2022-03-21, 最全自动驾驶数据集分享系列一｜目标检测数据集（2/3）](https://mp.weixin.qq.com/s/nJFG6GHw60pRODoEKWj3bg)
+    - [2022-04-24, 最全自动驾驶数据集分享系列一｜目标检测数据集（3/3）](https://mp.weixin.qq.com/s/r9d7NmcA3dymKRUhWoIPzw)
+
