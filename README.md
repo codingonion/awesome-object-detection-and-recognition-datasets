@@ -26,6 +26,7 @@
   - [SAR Image Datasets](#sar-image-datasets)
   - [Multispectral Image Datasets](#multispectral-image-datasets)
   - [3D Object Detection Datasets](#3d-object-detection-datasets)
+  - [Vehicle-to-Everything Field Datasets](#vehicle-to-everything-field-datasets)
   - [Super-Resolution Field Datasets](#super-resolution-field-datasets)
   - [Face Detection and Recognition Datasets](#general-detection-and-recognition-datasets)
     - [Face Detection Datasets](#face-detection-datasets)
@@ -337,6 +338,29 @@
 ## 3D Object Detection Datasets
 
   - [Objectron](https://github.com/google-research-datasets/Objectron) <img src="https://img.shields.io/github/stars/google-research-datasets/Objectron?style=social"/> : "Objectron: A Large Scale Dataset of Object-Centric Videos in the Wild with Pose Annotations". (**[CVPR, 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Ahmadyan_Objectron_A_Large_Scale_Dataset_of_Object-Centric_Videos_in_the_CVPR_2021_paper.html?ref=https://githubhelp.com)**)
+
+
+
+## Vehicle-to-Everything Field Datasets
+
+  - [OpenCOOD|OPV2V](https://github.com/DerrickXuNu/OpenCOOD) <img src="https://img.shields.io/github/stars/DerrickXuNu/OpenCOOD?style=social"/> : OpenCOOD is an Open COOperative Detection framework for autonomous driving. It is also the official implementation of the ICRA 2022 paper [OPV2V](https://mobility-lab.seas.ucla.edu/opv2v/). "OPV2V: An Open Benchmark Dataset and Fusion Pipeline for Perception with Vehicle-to-Vehicle Communication". (**[ICRA, 2022](https://ieeexplore.ieee.org/abstract/document/9812038/)**). [mobility-lab.seas.ucla.edu/opv2v/](https://mobility-lab.seas.ucla.edu/opv2v/)
+
+  - [CoBEVT](https://github.com/DerrickXuNu/CoBEVT) <img src="https://img.shields.io/github/stars/DerrickXuNu/CoBEVT?style=social"/> : "CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers". (**[CoRL, 2022](https://arxiv.org/abs/2207.02202)**).
+
+  - [Where2comm](https://github.com/MediaBrain-SJTU/where2comm) <img src="https://img.shields.io/github/stars/MediaBrain-SJTU/where2comm?style=social"/> : "Where2comm: Communication-Efficient Collaborative Perception via Spatial Confidence Maps". (**[Neurips, 2022](https://arxiv.org/abs/2209.12836)**).
+
+  - [PJLab-ADG/LiDARSimLib-and-Placement-Evaluation](https://github.com/PJLab-ADG/LiDARSimLib-and-Placement-Evaluation) <img src="https://img.shields.io/github/stars/PJLab-ADG/LiDARSimLib-and-Placement-Evaluation?style=social"/> : "Analyzing Infrastructure LiDAR Placement with Realistic LiDAR Simulation Library". (**[ICRA, 2023](https://arxiv.org/abs/2211.15975)**).
+
+  - [CoAlign](https://github.com/yifanlu0227/CoAlign) <img src="https://img.shields.io/github/stars/yifanlu0227/CoAlign?style=social"/> : "Robust Collaborative 3D Object Detection in Presence of Pose Errors". (**[ICRA, 2023](https://arxiv.org/abs/2211.07214)**).
+
+  - [V2V4Real](https://github.com/ucla-mobility/V2V4Real) <img src="https://img.shields.io/github/stars/ucla-mobility/V2V4Real?style=social"/> : "V2V4Real: A Real-World Large-Scale Dataset for Vehicle-to-Vehicle Cooperative Perception". (**[CVPR, 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_V2V4Real_A_Real-World_Large-Scale_Dataset_for_Vehicle-to-Vehicle_Cooperative_Perception_CVPR_2023_paper.html)**).
+
+  - [V2X-ViT|V2XSet](https://github.com/DerrickXuNu/v2x-vit) <img src="https://img.shields.io/github/stars/DerrickXuNu/v2x-vit?style=social"/> : "V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer". (**[ECCV, 2022](https://link.springer.com/chapter/10.1007/978-3-031-19842-7_7)**).
+  
+  - [DAIR-V2X](https://github.com/AIR-THU/DAIR-V2X) <img src="https://img.shields.io/github/stars/AIR-THU/DAIR-V2X?style=social"/> : "DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection". (**[CVPR, 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Yu_DAIR-V2X_A_Large-Scale_Dataset_for_Vehicle-Infrastructure_Cooperative_3D_Object_Detection_CVPR_2022_paper.html)**). [全球首个车路协同自动驾驶数据集发布](https://thudair.baai.ac.cn)
+
+  - [V2X-Seq](https://github.com/AIR-THU/DAIR-V2X-Seq) <img src="https://img.shields.io/github/stars/AIR-THU/DAIR-V2X-Seq?style=social"/> : "V2X-Seq: A Large-Scale Sequential Dataset for Vehicle-Infrastructure Cooperative Perception and Forecasting". (**[CVPR, 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Yu_V2X-Seq_A_Large-Scale_Sequential_Dataset_for_Vehicle-Infrastructure_Cooperative_Perception_and_CVPR_2023_paper.html)**). [全球首个大规模时序车路协同自动驾驶数据集发布](https://thudair.baai.ac.cn)
+
 
 
 
