@@ -11,6 +11,7 @@
     - [Tools](#tools)
       - [Data Annotation](#data-annotation)
       - [Data Augmentation](#data-augmentation)
+      - [Data Management](#data-management)
   - [General Detection and Recognition Datasets](#general-detection-and-recognition-datasets)
     - [Object Detection Datasets](#object-detection-datasets)
     - [Objecgt Recognition Datasets](#objecgt-recognition-datasets)
@@ -68,6 +69,7 @@
     - [飞桨AI Studio](https://aistudio.baidu.com/aistudio/datasetoverview) : 飞桨AI Studio开放数据集。
     - [极市开发者平台](https://www.cvmart.net/dataSets) : 极市开发者平台开放数据集。
     - [openvinotoolkit/datumaro](https://github.com/openvinotoolkit/datumaro) <img src="https://img.shields.io/github/stars/openvinotoolkit/datumaro?style=social"/> : Dataset Management Framework, a Python library and a CLI tool to build, analyze and manage Computer Vision datasets. 
+
 
 
   - ### Tools
@@ -132,8 +134,6 @@
     - [opendatalab/labelU](https://github.com/opendatalab/labelU) <img src="https://img.shields.io/github/stars/opendatalab/labelU?style=social"/> : Uniform, Unlimited, Universal and Unbelievable Annotation Toolbox.
 
 
-
-
     - #### Data Augmentation
 
       - [Albumentations](https://github.com/albumentations-team/albumentations) <img src="https://img.shields.io/github/stars/albumentations-team/albumentations?style=social"/> : Albumentations is a Python library for image augmentation. Image augmentation is used in deep learning and computer vision tasks to increase the quality of trained models. The purpose of image augmentation is to create new training samples from the existing data. "Albumentations: Fast and Flexible Image Augmentations". (**[Information 2020](https://www.mdpi.com/2078-2489/11/2/125)**)
@@ -141,7 +141,9 @@
       - [doubleZ0108/Data-Augmentation](https://github.com/doubleZ0108/Data-Augmentation) <img src="https://img.shields.io/github/stars/doubleZ0108/Data-Augmentation?style=social"/> : General Data Augmentation Algorithms for Object Detection(esp. Yolo). 
 
 
+    - #### Data Management
 
+      - [YOLOExplorer](https://github.com/lancedb/yoloexplorer) <img src="https://img.shields.io/github/stars/lancedb/yoloexplorer?style=social"/> : YOLOExplorer : Iterate on your YOLO / CV datasets using SQL, Vector semantic search, and more within seconds. Explore, manipulate and iterate on Computer Vision datasets with precision using simple APIs. Supports SQL filters, vector similarity search, native interface with Pandas and more.
 
 
 
