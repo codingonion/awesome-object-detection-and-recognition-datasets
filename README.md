@@ -59,7 +59,7 @@
 
     - [DLLXW/objectDetectionDatasets](https://github.com/DLLXW/objectDetectionDatasets) <img src="https://img.shields.io/github/stars/DLLXW/objectDetectionDatasets?style=social"/> : 目标检测数据集制作:VOC,COCO,YOLO等常用数据集格式的制作和互相转换脚本。
 
-    - [sjinzh/awesome-object-detection-and-recognition-datasets](https://github.com/sjinzh/awesome-object-detection-and-recognition-datasets) <img src="https://img.shields.io/github/stars/sjinzh/awesome-object-detection-and-recognition-datasets?style=social"/> : A collection of some awesome public object detection and recognition datasets.
+    - [codingonion/awesome-object-detection-and-recognition-datasets](https://github.com/codingonion/awesome-object-detection-and-recognition-datasets) <img src="https://img.shields.io/github/stars/codingonion/awesome-object-detection-and-recognition-datasets?style=social"/> : A collection of some awesome public object detection and recognition datasets.
 
 
   - ### Datasets Share Platform
